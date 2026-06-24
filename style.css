@@ -311,7 +311,7 @@ a:hover .button-primary {
 .image-cover-hero {
   width: 100%;
   height: 100%;
-  background-image: url("/assets/hero-image.png");
+  background-image: url("../assets/hero-image.png");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center;
@@ -675,7 +675,7 @@ a:hover .button-primary {
 /* FOOTER */
 .footer {
   position: relative;
-  background-image: url("/assets/container.png");
+  background-image: url("./assets/container.png");
   background-size: cover;
   background-position: center;
   color: #fff;
